@@ -98,7 +98,7 @@
     "@types/vscode": "1.62.0",
     "@types/ws": "8.2.2",
     "@vscode/vsce": "^2.22.1-2",
-    "esbuild": "0.18.10",
+    "esbuild": "0.25.0",
     "ovsx": "0.8.3"
   },
   "dependencies": {
@@ -113,7 +113,7 @@
     "graphql-config": "5.0.3",
     "graphql-tag": "2.12.6",
     "graphql-ws": "5.10.0",
-    "svelte": "^4.2.19",
+    "svelte": "^5.53.0",
     "svelte2tsx": "^0.6.16",
     "ws": "8.17.1",
     "nullthrows": "1.1.1"
